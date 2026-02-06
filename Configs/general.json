@@ -1,0 +1,6 @@
+{
+    "errorsWebhook": "YOUR_ERROR_WEBHOOK_HERE",
+    "version": "1.0.0",
+    "devmode": false,
+    "useMySQL": true
+}

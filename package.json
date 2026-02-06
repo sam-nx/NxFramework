@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.9.0",
+    "mysql2": "^3.14.1",
+    "node-fetch": "^2.6.8",
+    "path": "^0.12.7"
+  },
+  "name": "nx_framework",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "dev": "nodemon Index.js"
+  },
+  "author": "SamNx",
+  "license": "MIT",
+  "description": "Made with NxFramework by SamNx",
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0"
+  }
+}
